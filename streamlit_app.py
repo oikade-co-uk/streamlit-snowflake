@@ -8,5 +8,8 @@ streamlit.text('🥗  Kale, Spinach & Rocket Smoothie')
 streamlit.text('🐔 Hard-Boiled Free-Range Egg')
 streamlit.text('🥑🍞 Avacado Toast')
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
+
 streamlit.header('Lunch Menu')
-streamlit.text(' Something not entirely unlike meatballs')
+streamlit.text('\N{spaghetti} Something not entirely unlike meatballs')
